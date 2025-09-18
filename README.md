@@ -13,7 +13,7 @@ An automated pet feeder system using **ESP32** and **MQTT** for remote control, 
   - Water pump for dispensing water  
 - **Sensors:** Weight sensor to monitor food levels  
 - **Communication:** MQTT protocol for remote monitoring and control  
-- **Power Supply:** 240V AC with AC-DC converter  
+- **Power Supply:** 7.4 V DC powe supply
 
 ---
 
